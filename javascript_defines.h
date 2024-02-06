@@ -4,7 +4,6 @@
 #define var auto
 #define let auto
 #define const const auto
-#define script int main(){
-#define end_script }
+#define function int
 
 #endif //SILLY_IDEA_JAVASCRIPT_DEFINES_H
